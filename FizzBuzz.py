@@ -1,4 +1,4 @@
-for n in range(10000):
+for n in range(100):
     output = ""#Sets the output to an empty string
     if (n % 5 == 00):#Checks to see if the moudle returns 0 for the iteration and 5
         output = output + "Fizz"#Appends "Fizz" to the output string
